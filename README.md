@@ -15,6 +15,7 @@ To run simply navigate to the ipynb file and run all cells. The final cell will 
 ---
 
 ## Demo Video
+lumaa-ai-demo-video.mp4 (in files)
 
 ## Desired Salary: $40/hr
    - Is your `README.md` straightforward about setup, how to run, and what to expect?
